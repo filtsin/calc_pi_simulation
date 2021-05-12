@@ -51,6 +51,8 @@ mass 1.
 
 3) Count the number of collisions.
 
+Bth in my simulation it works with N ~ 7.
+
 # How it works
 
 [The great video](https://www.youtube.com/watch?v=jsYwFizhncE)
